@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/near-market-place/static/css/main.a174681c.chunk.css",
-    "main.js": "/near-market-place/static/js/main.ada65d64.chunk.js",
-    "main.js.map": "/near-market-place/static/js/main.ada65d64.chunk.js.map",
+    "main.js": "/near-market-place/static/js/main.ddc89d48.chunk.js",
+    "main.js.map": "/near-market-place/static/js/main.ddc89d48.chunk.js.map",
     "runtime-main.js": "/near-market-place/static/js/runtime-main.4b7ba4b1.js",
     "runtime-main.js.map": "/near-market-place/static/js/runtime-main.4b7ba4b1.js.map",
     "static/css/2.71a3706b.chunk.css": "/near-market-place/static/css/2.71a3706b.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.71a3706b.chunk.css",
     "static/js/2.6c45a4fe.chunk.js",
     "static/css/main.a174681c.chunk.css",
-    "static/js/main.ada65d64.chunk.js"
+    "static/js/main.ddc89d48.chunk.js"
   ]
 }
